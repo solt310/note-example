@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>みどり会計事務所 コラム</title>
+    <link>https://solt310.github.io/note-example/astro/column/</link>
+    <description>税金と帳簿の基本を、専門の言葉を使わずにお伝えするコラムです。</description>
+    <language>ja</language>
+    <item>
+      <title>はじめての税理士への相談、何を持っていけばいい？</title>
+      <link>https://solt310.github.io/note-example/astro/column/first-consultation/</link>
+      <guid>https://solt310.github.io/note-example/astro/column/first-consultation/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <category>開業</category>
+      <description>税理士にはじめて相談するとき、持っていくと話が早く進む書類と、聞いておくとよい質問をまとめました。</description>
+    </item>
+    <item>
+      <title>青色申告って、何がいいの？ はじめての方へ</title>
+      <link>https://solt310.github.io/note-example/astro/column/blue-return/</link>
+      <guid>https://solt310.github.io/note-example/astro/column/blue-return/</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+      <category>確定申告</category>
+      <description>個人事業の方が受けられる青色申告。白色申告との違い、受けられる控除、申請の期限を、はじめての方向けにまとめました。</description>
+    </item>
+    <item>
+      <title>確定申告は「1月から少しずつ」で、ぐっと楽になります</title>
+      <link>https://solt310.github.io/note-example/astro/column/tax-return-calendar/</link>
+      <guid>https://solt310.github.io/note-example/astro/column/tax-return-calendar/</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+      <category>確定申告</category>
+      <description>確定申告を3月に慌てて済ませないために、1月から始める準備の順番を、月ごとにまとめました。</description>
+    </item>
+    <item>
+      <title>個人で始めるか、会社をつくるか。迷ったときの考え方</title>
+      <link>https://solt310.github.io/note-example/astro/column/sole-or-corporation/</link>
+      <guid>https://solt310.github.io/note-example/astro/column/sole-or-corporation/</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+      <category>開業</category>
+      <description>事業を始めるとき、個人事業と会社のどちらがよいか。お金と手間の両面から、比べ方の順番をご説明します。</description>
+    </item>
+    <item>
+      <title>領収書の整理は「月ごとの封筒」がいちばん続きます</title>
+      <link>https://solt310.github.io/note-example/astro/column/receipts/</link>
+      <guid>https://solt310.github.io/note-example/astro/column/receipts/</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+      <category>帳簿と書類</category>
+      <description>領収書がたまってしまう方へ。道具をそろえずに今日から始められる、月ごとの封筒を使った整理の方法をご紹介します。</description>
+    </item>
+    <item>
+      <title>インボイス制度、小さなお店が確かめておきたい3つのこと</title>
+      <link>https://solt310.github.io/note-example/astro/column/invoice-basics/</link>
+      <guid>https://solt310.github.io/note-example/astro/column/invoice-basics/</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category>制度</category>
+      <description>インボイス制度に登録するかどうか。小さなお店や個人事業の方が、判断の前に確かめておきたい3つのことをまとめました。</description>
+    </item>
+  </channel>
+</rss>
