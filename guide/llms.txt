@@ -19,3 +19,11 @@
 - [みどり会計事務所（会社の紹介サイト）](https://solt310.github.io/note-example/corporate/): 小さな会計事務所。サービス、料金、事例に、お知らせとコラムを話しかけて更新。
 - [まちあるき日和（ウェブマガジン）](https://solt310.github.io/note-example/media/): 港町のウェブマガジン。記事、エリア、カテゴリ、書き手、サイト内の検索まで。
 
+
+## 解説記事
+
+- [マガジン（4本をまとめたもの）](https://note.com/labo310/m/m9ab90ed92a9b)
+- [入門編](https://note.com/labo310/n/n17c790618e6c): この仕組みでできることと、始める前の準備
+- [作成編](https://note.com/labo310/n/n198321ba8dc1): 新しいサイトを、企画から公開まで作る
+- [運用編](https://note.com/labo310/n/n00f3200fe01f): お知らせの更新、公開の失敗の直り方、月1回の振り返り
+- [引っ越し編](https://note.com/labo310/n/n46f3b6df13f8): WordPress や STUDIO のサイトを移す
