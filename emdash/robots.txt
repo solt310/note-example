@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /_emdash/
-
-Sitemap: https://solt310.github.io/note-example/emdash/sitemap.xml

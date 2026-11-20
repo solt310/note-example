@@ -6,13 +6,13 @@
 
 ## 主なページ
 
-- [事務所案内](https://solt310.github.io/note-example/astro/about/): 所長あいさつ、職員の紹介、事務所のあゆみと概要
-- [サービス](https://solt310.github.io/note-example/astro/services/): 記帳代行、確定申告、創業支援の内容と、ご依頼の流れ
-- [料金](https://solt310.github.io/note-example/astro/price/): サービスごとの料金の目安（税込）
-- [ご相談の事例](https://solt310.github.io/note-example/astro/cases/): お手伝いした方の事例
-- [よくある質問](https://solt310.github.io/note-example/astro/faq/): ご相談の前によくいただく質問
-- [お問い合わせ](https://solt310.github.io/note-example/astro/contact/): お問い合わせの方法
-- [個人情報の取り扱い](https://solt310.github.io/note-example/astro/privacy/)
+- [事務所案内](https://solt310.github.io/note-example/corporate/about/): 所長あいさつ、職員の紹介、事務所のあゆみと概要
+- [サービス](https://solt310.github.io/note-example/corporate/services/): 記帳代行、確定申告、創業支援の内容と、ご依頼の流れ
+- [料金](https://solt310.github.io/note-example/corporate/price/): サービスごとの料金の目安（税込）
+- [ご相談の事例](https://solt310.github.io/note-example/corporate/cases/): お手伝いした方の事例
+- [よくある質問](https://solt310.github.io/note-example/corporate/faq/): ご相談の前によくいただく質問
+- [お問い合わせ](https://solt310.github.io/note-example/corporate/contact/): お問い合わせの方法
+- [個人情報の取り扱い](https://solt310.github.io/note-example/corporate/privacy/)
 
 ## 料金の目安（税込）
 
@@ -52,19 +52,19 @@
 
 ## コラム
 
-- [コラム一覧](https://solt310.github.io/note-example/astro/column/)
-- [はじめての税理士への相談、何を持っていけばいい？](https://solt310.github.io/note-example/astro/column/first-consultation/): 税理士にはじめて相談するとき、持っていくと話が早く進む書類と、聞いておくとよい質問をまとめました。
-- [青色申告って、何がいいの？ はじめての方へ](https://solt310.github.io/note-example/astro/column/blue-return/): 個人事業の方が受けられる青色申告。白色申告との違い、受けられる控除、申請の期限を、はじめての方向けにまとめました。
-- [確定申告は「1月から少しずつ」で、ぐっと楽になります](https://solt310.github.io/note-example/astro/column/tax-return-calendar/): 確定申告を3月に慌てて済ませないために、1月から始める準備の順番を、月ごとにまとめました。
-- [個人で始めるか、会社をつくるか。迷ったときの考え方](https://solt310.github.io/note-example/astro/column/sole-or-corporation/): 事業を始めるとき、個人事業と会社のどちらがよいか。お金と手間の両面から、比べ方の順番をご説明します。
-- [領収書の整理は「月ごとの封筒」がいちばん続きます](https://solt310.github.io/note-example/astro/column/receipts/): 領収書がたまってしまう方へ。道具をそろえずに今日から始められる、月ごとの封筒を使った整理の方法をご紹介します。
-- [インボイス制度、小さなお店が確かめておきたい3つのこと](https://solt310.github.io/note-example/astro/column/invoice-basics/): インボイス制度に登録するかどうか。小さなお店や個人事業の方が、判断の前に確かめておきたい3つのことをまとめました。
+- [コラム一覧](https://solt310.github.io/note-example/corporate/column/)
+- [はじめての税理士への相談、何を持っていけばいい？](https://solt310.github.io/note-example/corporate/column/first-consultation/): 税理士にはじめて相談するとき、持っていくと話が早く進む書類と、聞いておくとよい質問をまとめました。
+- [青色申告って、何がいいの？ はじめての方へ](https://solt310.github.io/note-example/corporate/column/blue-return/): 個人事業の方が受けられる青色申告。白色申告との違い、受けられる控除、申請の期限を、はじめての方向けにまとめました。
+- [確定申告は「1月から少しずつ」で、ぐっと楽になります](https://solt310.github.io/note-example/corporate/column/tax-return-calendar/): 確定申告を3月に慌てて済ませないために、1月から始める準備の順番を、月ごとにまとめました。
+- [個人で始めるか、会社をつくるか。迷ったときの考え方](https://solt310.github.io/note-example/corporate/column/sole-or-corporation/): 事業を始めるとき、個人事業と会社のどちらがよいか。お金と手間の両面から、比べ方の順番をご説明します。
+- [領収書の整理は「月ごとの封筒」がいちばん続きます](https://solt310.github.io/note-example/corporate/column/receipts/): 領収書がたまってしまう方へ。道具をそろえずに今日から始められる、月ごとの封筒を使った整理の方法をご紹介します。
+- [インボイス制度、小さなお店が確かめておきたい3つのこと](https://solt310.github.io/note-example/corporate/column/invoice-basics/): インボイス制度に登録するかどうか。小さなお店や個人事業の方が、判断の前に確かめておきたい3つのことをまとめました。
 
 ## お知らせ
 
-- [お知らせ一覧](https://solt310.github.io/note-example/astro/news/)
-- [年末年始の休業のお知らせ](https://solt310.github.io/note-example/astro/news/2026-10-year-end-holidays/): 2026年12月27日（日）から2027年1月4日（月）まで、年末年始の休業をいただきます。
-- [確定申告のご相談の予約受付を始めました](https://solt310.github.io/note-example/astro/news/2026-10-tax-return-booking/): 2027年の確定申告（2026年分）のご相談の予約受付を始めました。1月中のご相談がおすすめです。
-- [コラムを始めました](https://solt310.github.io/note-example/astro/news/2026-10-column-start/): 税金や帳簿の基本を、専門の言葉を使わずにお伝えするコラムを始めました。
-- [年末調整のご依頼は11月27日までにお知らせください](https://solt310.github.io/note-example/astro/news/2026-10-year-end-adjustment/): 従業員の方の年末調整をご依頼いただく場合は、2026年11月27日（金）までにお知らせください。
-- [ホームページを開設しました](https://solt310.github.io/note-example/astro/news/2026-10-site-open/): みどり会計事務所のホームページを開設しました。事務所の案内、サービス、お知らせを掲載していきます。
+- [お知らせ一覧](https://solt310.github.io/note-example/corporate/news/)
+- [年末年始の休業のお知らせ](https://solt310.github.io/note-example/corporate/news/2026-10-year-end-holidays/): 2026年12月27日（日）から2027年1月4日（月）まで、年末年始の休業をいただきます。
+- [確定申告のご相談の予約受付を始めました](https://solt310.github.io/note-example/corporate/news/2026-10-tax-return-booking/): 2027年の確定申告（2026年分）のご相談の予約受付を始めました。1月中のご相談がおすすめです。
+- [コラムを始めました](https://solt310.github.io/note-example/corporate/news/2026-10-column-start/): 税金や帳簿の基本を、専門の言葉を使わずにお伝えするコラムを始めました。
+- [年末調整のご依頼は11月27日までにお知らせください](https://solt310.github.io/note-example/corporate/news/2026-10-year-end-adjustment/): 従業員の方の年末調整をご依頼いただく場合は、2026年11月27日（金）までにお知らせください。
+- [ホームページを開設しました](https://solt310.github.io/note-example/corporate/news/2026-10-site-open/): みどり会計事務所のホームページを開設しました。事務所の案内、サービス、お知らせを掲載していきます。

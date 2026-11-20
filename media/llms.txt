@@ -1,0 +1,34 @@
+# まちあるき日和
+
+> 架空の港町・汐見市の路地、店、人を、地図を片手に歩いて紹介するウェブマガジン。散歩道の距離と時間、立ち寄る場所つき。
+
+汐見市は架空の町で、店・人物・行事もすべて架空です。散歩道の距離と時間は、ゆっくり歩いた場合の目安です。
+
+## 記事
+
+- [灯台まで、海風の坂をのぼる](https://solt310.github.io/note-example/media/articles/misaki-lighthouse-walk/): 汐見港から岬の灯台まで2.4km。漁師町の路地、松林、最後の石段をのぼりきると、町と海がひと目で見わたせます。（散歩道、岬、2.4km・約50分）
+- [朝市の帰り道、干物を一枚](https://solt310.github.io/note-example/media/articles/asaichi-himono/): 日曜の朝6時、港の広場に並ぶ40軒ほどの屋台。買った干物をその場で焼いてもらえる、汐見の朝ごはんを紹介します。（食べる、港まち、1.2km・約30分）
+- [喫茶「灯」の窓辺の席](https://solt310.github.io/note-example/media/articles/kissa-akari/): 汐見銀座の路地の2階にある喫茶店「灯（あかり）」。創業から52年、同じ窓から商店街を見下ろしてきた店の話です。（店と人、汐見銀座、0.8km・約20分）
+- [汐見銀座、ひさしの下の古書店](https://solt310.github.io/note-example/media/articles/kosho-hisashi/): 雨の日でも本が濡れないように、深いひさしを張り出した古書店。町の歴史の本と、船の写真集が充実しています。（店と人、汐見銀座、0.6km・約15分）
+- [夕焼けの石段と、銭湯のけむり](https://solt310.github.io/note-example/media/articles/sento-yuuyake/): 山手の石段を下りながら、夕焼けと町の明かりを眺める散歩道。ゴールは、煙突のある昔ながらの銭湯です。（散歩道、山手、1.8km・約40分）
+- [坂の途中のパン屋は、朝7時に開く](https://solt310.github.io/note-example/media/articles/pan-sakamichi/): 通学路の坂の途中にある小さなパン屋。焼きたての食パンを目当てに、開店前から坂の上まで列ができます。（食べる、山手、0.9km・約20分）
+- [10分の船旅で、小島の路地へ](https://solt310.github.io/note-example/media/articles/ferry-kojima/): 汐見港から船で10分の小島。車が入れない細い路地と、猫と、島のおばあちゃんたちの干し柿。半日で歩ける島めぐりです。（散歩道、小島、3.1km・約70分）
+- [シャッターの壁画をめぐる](https://solt310.github.io/note-example/media/articles/shutter-art/): 閉まったシャッターに、町の風景を描く。汐見銀座の20枚の壁画を、描いた人の話と一緒にめぐりました。（散歩道、汐見銀座、1km・約35分）
+- [秋祭りの提灯、つくる人たち](https://solt310.github.io/note-example/media/articles/matsuri-chochin/): 10月の汐見の秋祭り。港の通りを埋める300個の提灯は、町内の人たちが夏から手づくりしています。（町の記憶、港まち、0.7km・約20分）
+- [山手の洋館と、古い郵便ポスト](https://solt310.github.io/note-example/media/articles/yamate-youkan/): 港が栄えた時代に建てられた洋館が残る山手。坂を歩きながら、明治の建物と丸い郵便ポストを探しました。（町の記憶、山手、2km・約45分）
+
+## エリア
+
+- [港まち](https://solt310.github.io/note-example/media/area/minato/): フェリー乗り場と朝市のある、町の玄関口。
+- [汐見銀座](https://solt310.github.io/note-example/media/area/ginza/): アーケードと路地が入り組む、昔からの商店街。
+- [山手](https://solt310.github.io/note-example/media/area/yamate/): 石段と坂の上に、洋館と住宅が並ぶ高台。
+- [岬](https://solt310.github.io/note-example/media/area/misaki/): 灯台と松林のある、町の東の端。
+- [小島](https://solt310.github.io/note-example/media/area/kojima/): 港から船で10分。車の入れない路地の島。
+
+## サイトについて
+
+- [お問い合わせ・情報提供](https://solt310.github.io/note-example/media/contact/): 記事へのご意見、取材のご相談、町の情報をお寄せください。
+- [個人情報の取り扱い](https://solt310.github.io/note-example/media/privacy/): お問い合わせでお預かりする個人情報の取り扱いについて。
+- [編集方針](https://solt310.github.io/note-example/media/policy/): 取材のしかたと、記事に書くこと・書かないことの決まりです。
+- [編集室について](https://solt310.github.io/note-example/media/about/): 「まちあるき日和」は、架空の港町・汐見市を歩いて紹介するウェブマガジンです。
+- [RSS](https://solt310.github.io/note-example/media/rss.xml): 新しい記事の一覧

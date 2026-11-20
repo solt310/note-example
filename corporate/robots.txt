@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://solt310.github.io/note-example/astro/sitemap-index.xml
+Sitemap: https://solt310.github.io/note-example/corporate/sitemap-index.xml
